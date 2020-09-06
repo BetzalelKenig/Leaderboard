@@ -1,0 +1,2 @@
+# Leaderboard
+Vanila js leaderboard
